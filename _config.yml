@@ -12,7 +12,7 @@ title                    : "Fufangchen Zhao / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Fufangchen Zhao"
 description              : &description "2nd year Ph.D. in BUPT"
-url                      : https://zhaofufangchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://heavenhellchen.github.io/zhaofufangchen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "heavenhellchen/zhaofufangchen.github.io"
 
