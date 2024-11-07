@@ -9,4 +9,4 @@ redirect_from:
 
 I'm Fufangchen Zhao, a 2nd year Ph.D. student in Computer Science and Technology from [State Key Laboratory of Networking and Switching Technology]( https://sklnst.bupt.edu.cn/) in [BUPT (Beijing University of Posts and Telecommunications)](https://www.bupt.edu.cn/), Beijing, China. my research focus is on enhancing the **knowledge representation** within dialogue systems or on improving the retrieval capabilities during conversations to bolster dialogue capabilities.  I am currently conducting evaluations on multiple **LMMs** in an attempt to identify and mitigate political or dangerous vulnerabilities in their dialogue. Thereby enhancing the universality of their dialogue.
 
-You can find my CV here: [Fufangchen's English CV](../assets/Fufangchen_Zhao_CV.pdf) and [Fufangchen's Chinese CV](../assets/cv_chinese.pdf)
+You can find my CV here: [Fufangchen's English CV](http://academicpages.github.io/assets/Fufangchen_Zhao_CV.pdf) and [Fufangchen's Chinese CV](http://academicpages.github.io/assets/cv_chinese.pdf)
