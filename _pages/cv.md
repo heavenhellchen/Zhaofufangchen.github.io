@@ -11,54 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in BUPT, 2027 (expected)
+* M.S. in BUPT, 2023
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2023 to Summer 2024: Intern Researcher
+  * [Sensetime Research](https://www.sensetime.com/)
+  * Duties includes: LLM training, fine-tuning and pruning; Systematic evaluation of large models; Data suport of [Sensechat](https://chat.sensetime.com/)
+  * Supervisor: [Fei Tan](https://scholar.google.cz/citations?user=IhYATC0AAAA); [Rui Zhao](https://scholar.google.cz/citations?user=1c9oQNMAAAAJ)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2021 to Winter 2022: Intern Researcher
+  * Xizhi AI
+  * Duties included: Enhance the mathematical problem-solving ability of the model; Prompt engineering of Large Language Models
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Pytorch
+* Ubuntu
+* git
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
